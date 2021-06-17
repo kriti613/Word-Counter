@@ -1,9 +1,10 @@
-# Word count is the number of words in a document or
+# Word count 
+
+Word Counter is the number of words in a document or
 passage of text. A word counter is a useful tool for writers to see the count of the
 total number of words in their article. 
 
-## Some pointers to keep in mind while
-building a word counter app are:
+## Some pointers to keep in mind while building a word counter app are:
 
 a. It requires you to build an app that can parse texts and show the number of
 words.
